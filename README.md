@@ -1,4 +1,4 @@
-# Java-Selenium-Sample
+# How to run automation test in incognito mode in Java-selenium on LambdaTest
 ![Java](https://www.lambdatest.com/support/assets/images/og-images/Java-with-Selenium-1-1.jpg)
 
 ### Prerequisites
