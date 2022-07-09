@@ -12,7 +12,15 @@
     ```
      install maven
     ```
-    
+### Set incognito
+
+The following code can be used to set browser to incognito mode (Chrome):
+```java
+ChromeOptions options = new ChromeOptions ();
+// Setting chrome flag for incognito mode
+options.addArguments("--incognito");
+caps.setCapability(ChromeOptions.CAPABILITY, options);
+```
 ### Run your First Test
 1. Clone the Java-Selenium-Sample repository. 
 ```
